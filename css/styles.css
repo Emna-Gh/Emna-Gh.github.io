@@ -1,0 +1,21 @@
+h1{
+	color : red;
+	font-size : 40px ;
+	margin-left : 40% ;
+}
+p{font-size: 20%px;
+	width: 30%;
+	padding-left: 5% ;
+	display: block;
+}
+
+.web {background-color: green;
+}
+
+.game {background-color: yellow;
+}
+
+body{background-image: url("../res/image.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
